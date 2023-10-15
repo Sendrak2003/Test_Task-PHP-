@@ -30,10 +30,12 @@ Step-10:
 Paste in console: php artisan serve
 
 Step-11:
-Go to URL in console
-
+Paste in console: php artisan serve
 
 Step-12:
+Go to URL in console
+
+Step-13:
 php artisan migrate:fresh --seed --seeder=UserSeeder
 
 
