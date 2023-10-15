@@ -27,7 +27,7 @@ Step-9:
 Paste in console: php artisan config:clear
 
 Step-10:
-Paste in console: php artisan serve
+Paste in console: npm run build  
 
 Step-11:
 Paste in console: php artisan serve
