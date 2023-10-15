@@ -2,12 +2,12 @@ Step-1:
 Open console (Alt + F12)
 
 Step-2:
-Paste in console <<cd Task_Test>>  
+Paste in console <cd Task_Test>  
 
 Step-3:
-Paste in console <<composer i>>
+Paste in console <composer i>
 Step-4:
-Paste in console <<npm i>>
+Paste in console <npm i>
 
 Step-5:
 Create database <<laravel>> in MySQL
@@ -76,16 +76,16 @@ VITE_PUSHER_SCHEME="${PUSHER_SCHEME}"
 VITE_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
 
 Step-7:
-Paste in console <<php artisan key:generate>>
+Paste in console <php artisan key:generate>
 
 Step-8:
-Paste in console <<php artisan cache:clear>>
+Paste in console <php artisan cache:clear>
 
 Step-9:
-Paste in console <<php artisan config:clear>>
+Paste in console <php artisan config:clear>
 
 Step-10:
-Paste in console <<php artisan serve>>
+Paste in console <php artisan serve>
 
 Step-11:
 Go to URL in console
