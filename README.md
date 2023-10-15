@@ -93,6 +93,11 @@ Step-11:
 Go to URL in console
 
 
+Step-12:
+php artisan migrate:fresh --seed --seeder=UserSeeder
+
+
+
 
 
 
