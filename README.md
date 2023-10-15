@@ -15,7 +15,7 @@ Step-5:
 Create database: laravel in MySQL
 
 Step-6:
-create file << .env >> in folder Task_Test and copy code from config.txt and paste into .enf
+rename file .env.example in folder Task_Test file to .env
 
 Step-7:
 Paste in console: php artisan key:generate
